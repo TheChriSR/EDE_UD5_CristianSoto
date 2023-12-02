@@ -1,4 +1,4 @@
-public class Hola_Colega
+public class EDE_UD5_CristianSoto
 {
     public static void main(String[] args)
     {
